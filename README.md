@@ -1,5 +1,3 @@
-)
-
 📸 Image Gallery App (React + Tailwind)
 
 A modern and responsive Image Gallery Application built using React, Axios, and Tailwind CSS.
